@@ -1,0 +1,6 @@
+framework module Pods_VacationAppWithGoogleMapsSDK {
+  umbrella header "Pods-VacationAppWithGoogleMapsSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
